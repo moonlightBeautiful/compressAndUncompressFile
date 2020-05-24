@@ -1,0 +1,4 @@
+# Project exclude paths
+/c01javaUtilZip/target/
+/c02ant/target/
+/c03zip4j/target/
